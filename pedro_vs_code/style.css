@@ -10,3 +10,15 @@ a{
 font-size: 13px;
 font-family: Arial, sans-serif;
 }
+apps{
+    width: 24px;
+    fill: dimgray;
+}
+.botao-login{
+    background-color: dodgerblue;
+    color: aliceblue;
+    padding: 10px 30px;
+    font-family: google sans,roboto,helvetica,arial,sans-serif;
+    border-radius: 4px;
+}
+
